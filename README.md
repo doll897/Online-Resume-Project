@@ -1,5 +1,5 @@
 # Online-Resume-Project
-# site is live at https://doll897.github.io/Online-Resume-Project/
+## Site is live at https://doll897.github.io/Online-Resume-Project/
 # Dolly's Resume
 
 Welcome to my professional resume! This repository showcases my skills, education, projects, work experience, and achievements. This HTML-based resume provides a comprehensive overview of my journey in the IT industry.
